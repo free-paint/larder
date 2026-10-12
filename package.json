@@ -9,10 +9,10 @@
     "test": "node --test lib/*.test.mjs"
   },
   "dependencies": {
-    "next": "15.5.4",
-    "react": "19.1.1",
-    "react-dom": "19.1.1",
-    "papaparse": "5.5.3"
+    "next": "16.4.0",
+    "papaparse": "5.5.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "4.1.13",
