@@ -1,0 +1,171 @@
+invoice_no,invoice_date,supplier,delivery_note_no,item,unit,qty,unit_price
+RK-1001,2026-09-01,Rohemaa Köögivili OÜ,RK-DN1001,Sibul,kg,14,0.9
+RK-1001,2026-09-01,Rohemaa Köögivili OÜ,RK-DN1001,Salat,tk,11,1.2
+KV-1002,2026-09-01,Kuldne Vili Kuivained OÜ,KV-DN1002,Nisujahu,kg,44.5,0.8
+KV-1002,2026-09-01,Kuldne Vili Kuivained OÜ,KV-DN1002,Riis,kg,14.5,1.9
+KV-1002,2026-09-01,Kuldne Vili Kuivained OÜ,KV-DN1002,Oliiviõli,l,7.5,9.5
+TL-1003,2026-09-01,Toompea Lihapood OÜ,TL-DN1003,Veise sisefilee,kg,3.5,42
+TL-1003,2026-09-01,Toompea Lihapood OÜ,TL-DN1003,Kanarind,kg,9,7.8
+LK-1004,2026-09-02,Läänemere Kala OÜ,LK-DN1004,Lõhefilee,kg,8,18.9
+LK-1004,2026-09-02,Läänemere Kala OÜ,LK-DN1004,Koha filee,kg,4,21.5
+RK-1005,2026-09-02,Rohemaa Köögivili OÜ,RK-DN1005,Kartul,kg,40,0.65
+RK-1005,2026-09-02,Rohemaa Köögivili OÜ,RK-DN1005,Tomat,kg,6.5,3.4
+RK-1005,2026-09-02,Rohemaa Köögivili OÜ,RK-DN1005,Salat,tk,15,1.2
+SP-1006,2026-09-02,Saaremaa Piimatalu OÜ,SP-DN1006,Või,kg,3.5,8.9
+SP-1006,2026-09-02,Saaremaa Piimatalu OÜ,SP-DN1006,Koor 35%,l,11.5,4.1
+SP-1006,2026-09-02,Saaremaa Piimatalu OÜ,SP-DN1006,Piim,l,24.5,1.1
+RK-1007,2026-09-03,Rohemaa Köögivili OÜ,RK-DN1007,Kartul,kg,24,0.65
+RK-1007,2026-09-03,Rohemaa Köögivili OÜ,RK-DN1007,Tomat,kg,8.5,3.4
+TL-1008,2026-09-03,Toompea Lihapood OÜ,TL-DN1008,Veise sisefilee,kg,4.5,42
+TL-1008,2026-09-03,Toompea Lihapood OÜ,TL-DN1008,Kanarind,kg,10.5,7.8
+TL-1008,2026-09-03,Toompea Lihapood OÜ,TL-DN1008,Seakaelakarbonaad,kg,9.5,9.6
+LK-1009,2026-09-04,Läänemere Kala OÜ,LK-DN1009,Lõhefilee,kg,8.5,18.9
+LK-1009,2026-09-04,Läänemere Kala OÜ,LK-DN1009,Koha filee,kg,4.5,21.5
+LK-1009,2026-09-04,Läänemere Kala OÜ,LK-DN1009,Räim,kg,7,4.2
+RK-1010,2026-09-04,Rohemaa Köögivili OÜ,RK-DN1010,Kartul,kg,37,0.65
+RK-1010,2026-09-04,Rohemaa Köögivili OÜ,RK-DN1010,Sibul,kg,11,0.9
+RK-1010,2026-09-04,Rohemaa Köögivili OÜ,RK-DN1010,Tomat,kg,6,3.4
+RK-1010,2026-09-04,Rohemaa Köögivili OÜ,RK-DN1010,Salat,tk,18,1.2
+SP-1011,2026-09-04,Saaremaa Piimatalu OÜ,SP-DN1011,Koor 35%,l,7.5,4.1
+LK-1012,2026-09-07,Läänemere Kala OÜ,LK-DN1012,Lõhefilee,kg,6,18.9
+LK-1012,2026-09-07,Läänemere Kala OÜ,LK-DN1012,Koha filee,kg,5.5,21.5
+LK-1012,2026-09-07,Läänemere Kala OÜ,LK-DN1012,Räim,kg,6,4.2
+RK-1013,2026-09-07,Rohemaa Köögivili OÜ,RK-DN1013,Kartul,kg,33.5,0.65
+RK-1013,2026-09-07,Rohemaa Köögivili OÜ,RK-DN1013,Sibul,kg,9.5,0.9
+RK-1013,2026-09-07,Rohemaa Köögivili OÜ,RK-DN1013,Tomat,kg,7,3.4
+RK-1013,2026-09-07,Rohemaa Köögivili OÜ,RK-DN1013,Salat,tk,11,1.2
+SP-1014,2026-09-07,Saaremaa Piimatalu OÜ,SP-DN1014,Või,kg,4,8.9
+SP-1014,2026-09-07,Saaremaa Piimatalu OÜ,SP-DN1014,Koor 35%,l,8,4.1
+SP-1014,2026-09-07,Saaremaa Piimatalu OÜ,SP-DN1014,Piim,l,23.5,1.1
+RK-1015,2026-09-08,Rohemaa Köögivili OÜ,RK-DN1015,Kartul,kg,20.5,0.65
+RK-1015,2026-09-08,Rohemaa Köögivili OÜ,RK-DN1015,Sibul,kg,8.5,0.9
+RK-1015,2026-09-08,Rohemaa Köögivili OÜ,RK-DN1015,Salat,tk,14,1.2
+KV-1016,2026-09-08,Kuldne Vili Kuivained OÜ,KV-DN1016,Nisujahu,kg,31,0.8
+KV-1016,2026-09-08,Kuldne Vili Kuivained OÜ,KV-DN1016,Riis,kg,11.5,1.9
+TL-1017,2026-09-08,Toompea Lihapood OÜ,TL-DN1017,Veise sisefilee,kg,4.5,42
+TL-1017,2026-09-08,Toompea Lihapood OÜ,TL-DN1017,Kanarind,kg,11,7.8
+LK-1018,2026-09-09,Läänemere Kala OÜ,LK-DN1018,Lõhefilee,kg,13,18.9
+LK-1018,2026-09-09,Läänemere Kala OÜ,LK-DN1018,Koha filee,kg,3.5,21.5
+LK-1018,2026-09-09,Läänemere Kala OÜ,LK-DN1018,Räim,kg,8,4.2
+RK-1019,2026-09-09,Rohemaa Köögivili OÜ,RK-DN1019,Kartul,kg,21,0.65
+RK-1019,2026-09-09,Rohemaa Köögivili OÜ,RK-DN1019,Sibul,kg,10.5,0.9
+RK-1019,2026-09-09,Rohemaa Köögivili OÜ,RK-DN1019,Tomat,kg,8,3.4
+RK-1019,2026-09-09,Rohemaa Köögivili OÜ,RK-DN1019,Salat,tk,18,1.2
+SP-1020,2026-09-09,Saaremaa Piimatalu OÜ,SP-DN1020,Koor 35%,l,7.5,4.1
+RK-1021,2026-09-10,Rohemaa Köögivili OÜ,RK-DN1021,Kartul,kg,25,0.65
+RK-1021,2026-09-10,Rohemaa Köögivili OÜ,RK-DN1021,Sibul,kg,10.5,0.9
+RK-1021,2026-09-10,Rohemaa Köögivili OÜ,RK-DN1021,Tomat,kg,7,3.4
+RK-1021,2026-09-10,Rohemaa Köögivili OÜ,RK-DN1021,Salat,tk,14,1.2
+TL-1022,2026-09-10,Toompea Lihapood OÜ,TL-DN1022,Kanarind,kg,11,7.8
+TL-1022,2026-09-10,Toompea Lihapood OÜ,TL-DN1022,Seakaelakarbonaad,kg,6.5,9.6
+LK-1023,2026-09-11,Läänemere Kala OÜ,LK-DN1023,Lõhefilee,kg,11.5,18.9
+LK-1023,2026-09-11,Läänemere Kala OÜ,LK-DN1023,Koha filee,kg,5.5,21.5
+RK-1024,2026-09-11,Rohemaa Köögivili OÜ,RK-DN1024,Kartul,kg,20.5,0.65
+RK-1024,2026-09-11,Rohemaa Köögivili OÜ,RK-DN1024,Sibul,kg,11.5,0.9
+RK-1024,2026-09-11,Rohemaa Köögivili OÜ,RK-DN1024,Tomat,kg,8.5,3.4
+RK-1024,2026-09-11,Rohemaa Köögivili OÜ,RK-DN1024,Salat,tk,15,1.2
+SP-1025,2026-09-11,Saaremaa Piimatalu OÜ,SP-DN1025,Või,kg,4,8.9
+LK-1026,2026-09-14,Läänemere Kala OÜ,LK-DN1026,Lõhefilee,kg,12,18.9
+RK-1027,2026-09-14,Rohemaa Köögivili OÜ,RK-DN1027,Kartul,kg,38.5,0.65
+RK-1027,2026-09-14,Rohemaa Köögivili OÜ,RK-DN1027,Sibul,kg,9.5,0.9
+RK-1027,2026-09-14,Rohemaa Köögivili OÜ,RK-DN1027,Tomat,kg,6.5,3.4
+RK-1027,2026-09-14,Rohemaa Köögivili OÜ,RK-DN1027,Salat,tk,10,1.2
+SP-1028,2026-09-14,Saaremaa Piimatalu OÜ,SP-DN1028,Või,kg,3.5,8.9
+SP-1028,2026-09-14,Saaremaa Piimatalu OÜ,SP-DN1028,Koor 35%,l,9,4.1
+SP-1028,2026-09-14,Saaremaa Piimatalu OÜ,SP-DN1028,Piim,l,29,1.1
+RK-1029,2026-09-15,Rohemaa Köögivili OÜ,RK-DN1029,Kartul,kg,25,0.65
+RK-1029,2026-09-15,Rohemaa Köögivili OÜ,RK-DN1029,Sibul,kg,10,0.9
+RK-1029,2026-09-15,Rohemaa Köögivili OÜ,RK-DN1029,Tomat,kg,5,3.4
+RK-1029,2026-09-15,Rohemaa Köögivili OÜ,RK-DN1029,Salat,tk,15,1.2
+KV-1030,2026-09-15,Kuldne Vili Kuivained OÜ,KV-DN1030,Nisujahu,kg,46.5,0.8
+KV-1030,2026-09-15,Kuldne Vili Kuivained OÜ,KV-DN1030,Riis,kg,11.5,1.9
+TL-1031,2026-09-15,Toompea Lihapood OÜ,TL-DN1031,Veise sisefilee,kg,4.5,42
+TL-1031,2026-09-15,Toompea Lihapood OÜ,TL-DN1031,Kanarind,kg,15,7.8
+TL-1031,2026-09-15,Toompea Lihapood OÜ,TL-DN1031,Seakaelakarbonaad,kg,8.5,9.6
+LK-1032,2026-09-16,Läänemere Kala OÜ,LK-DN1032,Lõhefilee,kg,12.5,18.9
+LK-1032,2026-09-16,Läänemere Kala OÜ,LK-DN1032,Koha filee,kg,3,21.5
+LK-1032,2026-09-16,Läänemere Kala OÜ,LK-DN1032,Räim,kg,4.5,4.2
+RK-1033,2026-09-16,Rohemaa Köögivili OÜ,RK-DN1033,Sibul,kg,12,0.9
+RK-1033,2026-09-16,Rohemaa Köögivili OÜ,RK-DN1033,Tomat,kg,5.5,3.4
+RK-1033,2026-09-16,Rohemaa Köögivili OÜ,RK-DN1033,Salat,tk,17,1.2
+SP-1034,2026-09-16,Saaremaa Piimatalu OÜ,SP-DN1034,Või,kg,5,8.9
+SP-1034,2026-09-16,Saaremaa Piimatalu OÜ,SP-DN1034,Koor 35%,l,8,4.1
+SP-1034,2026-09-16,Saaremaa Piimatalu OÜ,SP-DN1034,Piim,l,25,1.1
+RK-1035,2026-09-17,Rohemaa Köögivili OÜ,RK-DN1035,Kartul,kg,22.5,0.65
+RK-1035,2026-09-17,Rohemaa Köögivili OÜ,RK-DN1035,Sibul,kg,13,0.9
+RK-1035,2026-09-17,Rohemaa Köögivili OÜ,RK-DN1035,Tomat,kg,9.5,3.4
+RK-1035,2026-09-17,Rohemaa Köögivili OÜ,RK-DN1035,Salat,tk,16,1.2
+TL-1036,2026-09-17,Toompea Lihapood OÜ,TL-DN1036,Veise sisefilee,kg,4,42
+TL-1036,2026-09-17,Toompea Lihapood OÜ,TL-DN1036,Kanarind,kg,10,7.8
+LK-1037,2026-09-18,Läänemere Kala OÜ,LK-DN1037,Lõhefilee,kg,12,18.9
+LK-1037,2026-09-18,Läänemere Kala OÜ,LK-DN1037,Räim,kg,4,4.2
+RK-1038,2026-09-18,Rohemaa Köögivili OÜ,RK-DN1038,Kartul,kg,28,0.65
+RK-1038,2026-09-18,Rohemaa Köögivili OÜ,RK-DN1038,Sibul,kg,9,0.9
+RK-1038,2026-09-18,Rohemaa Köögivili OÜ,RK-DN1038,Salat,tk,19,1.2
+SP-1039,2026-09-18,Saaremaa Piimatalu OÜ,SP-DN1039,Või,kg,3.5,8.9
+SP-1039,2026-09-18,Saaremaa Piimatalu OÜ,SP-DN1039,Koor 35%,l,11.5,4.1
+SP-1039,2026-09-18,Saaremaa Piimatalu OÜ,SP-DN1039,Piim,l,27.5,1.1
+LK-1040,2026-09-21,Läänemere Kala OÜ,LK-DN1040,Koha filee,kg,4,21.5
+LK-1040,2026-09-21,Läänemere Kala OÜ,LK-DN1040,Räim,kg,4.5,4.2
+RK-1041,2026-09-21,Rohemaa Köögivili OÜ,RK-DN1041,Kartul,kg,24.5,0.65
+RK-1041,2026-09-21,Rohemaa Köögivili OÜ,RK-DN1041,Sibul,kg,8,0.9
+RK-1041,2026-09-21,Rohemaa Köögivili OÜ,RK-DN1041,Tomat,kg,9.5,3.4
+RK-1041,2026-09-21,Rohemaa Köögivili OÜ,RK-DN1041,Salat,tk,13,1.2
+SP-1042,2026-09-21,Saaremaa Piimatalu OÜ,SP-DN1042,Või,kg,5.5,8.9
+SP-1042,2026-09-21,Saaremaa Piimatalu OÜ,SP-DN1042,Koor 35%,l,7.5,4.1
+SP-1042,2026-09-21,Saaremaa Piimatalu OÜ,SP-DN1042,Piim,l,16,1.1
+RK-1043,2026-09-22,Rohemaa Köögivili OÜ,RK-DN1043,Kartul,kg,20,0.65
+RK-1043,2026-09-22,Rohemaa Köögivili OÜ,RK-DN1043,Sibul,kg,12,0.9
+RK-1043,2026-09-22,Rohemaa Köögivili OÜ,RK-DN1043,Salat,tk,16,1.2
+KV-1044,2026-09-22,Kuldne Vili Kuivained OÜ,KV-DN1044,Riis,kg,16.5,1.9
+KV-1044,2026-09-22,Kuldne Vili Kuivained OÜ,KV-DN1044,Oliiviõli,l,8.5,9.5
+TL-1045,2026-09-22,Toompea Lihapood OÜ,TL-DN1045,Veise sisefilee,kg,5,42
+TL-1045,2026-09-22,Toompea Lihapood OÜ,TL-DN1045,Kanarind,kg,14,7.8
+TL-1045,2026-09-22,Toompea Lihapood OÜ,TL-DN1045,Seakaelakarbonaad,kg,8,9.6
+LK-1046,2026-09-23,Läänemere Kala OÜ,LK-DN1046,Koha filee,kg,3.5,21.5
+LK-1046,2026-09-23,Läänemere Kala OÜ,LK-DN1046,Räim,kg,4.5,4.2
+RK-1047,2026-09-23,Rohemaa Köögivili OÜ,RK-DN1047,Kartul,kg,40,0.65
+RK-1047,2026-09-23,Rohemaa Köögivili OÜ,RK-DN1047,Tomat,kg,9.5,3.4
+RK-1047,2026-09-23,Rohemaa Köögivili OÜ,RK-DN1047,Salat,tk,19,1.2
+SP-1048,2026-09-23,Saaremaa Piimatalu OÜ,SP-DN1048,Või,kg,5.5,8.9
+SP-1048,2026-09-23,Saaremaa Piimatalu OÜ,SP-DN1048,Koor 35%,l,8.5,4.1
+SP-1048,2026-09-23,Saaremaa Piimatalu OÜ,SP-DN1048,Piim,l,16.5,1.1
+RK-1049,2026-09-24,Rohemaa Köögivili OÜ,RK-DN1049,Kartul,kg,39,0.65
+RK-1049,2026-09-24,Rohemaa Köögivili OÜ,RK-DN1049,Tomat,kg,8.5,3.4
+RK-1049,2026-09-24,Rohemaa Köögivili OÜ,RK-DN1049,Salat,tk,13,1.2
+TL-1050,2026-09-24,Toompea Lihapood OÜ,TL-DN1050,Veise sisefilee,kg,3.5,42
+TL-1050,2026-09-24,Toompea Lihapood OÜ,TL-DN1050,Seakaelakarbonaad,kg,5.5,9.6
+LK-1051,2026-09-25,Läänemere Kala OÜ,LK-DN1051,Lõhefilee,kg,11,18.9
+LK-1051,2026-09-25,Läänemere Kala OÜ,LK-DN1051,Räim,kg,4.5,4.2
+RK-1052,2026-09-25,Rohemaa Köögivili OÜ,RK-DN1052,Sibul,kg,12.5,0.9
+RK-1052,2026-09-25,Rohemaa Köögivili OÜ,RK-DN1052,Tomat,kg,7.5,3.4
+RK-1052,2026-09-25,Rohemaa Köögivili OÜ,RK-DN1052,Salat,tk,14,1.2
+SP-1053,2026-09-25,Saaremaa Piimatalu OÜ,SP-DN1053,Või,kg,4,8.9
+SP-1053,2026-09-25,Saaremaa Piimatalu OÜ,SP-DN1053,Koor 35%,l,11,4.1
+SP-1053,2026-09-25,Saaremaa Piimatalu OÜ,SP-DN1053,Piim,l,24,1.1
+LK-1054,2026-09-28,Läänemere Kala OÜ,LK-DN1054,Lõhefilee,kg,10.5,18.9
+LK-1054,2026-09-28,Läänemere Kala OÜ,LK-DN1054,Koha filee,kg,6,21.5
+LK-1054,2026-09-28,Läänemere Kala OÜ,LK-DN1054,Räim,kg,5,4.2
+RK-1055,2026-09-28,Rohemaa Köögivili OÜ,RK-DN1055,Kartul,kg,26,0.65
+RK-1055,2026-09-28,Rohemaa Köögivili OÜ,RK-DN1055,Tomat,kg,5,3.4
+RK-1055,2026-09-28,Rohemaa Köögivili OÜ,RK-DN1055,Salat,tk,10,1.2
+SP-1056,2026-09-28,Saaremaa Piimatalu OÜ,SP-DN1056,Või,kg,5,8.9
+SP-1056,2026-09-28,Saaremaa Piimatalu OÜ,SP-DN1056,Koor 35%,l,9.5,4.1
+SP-1056,2026-09-28,Saaremaa Piimatalu OÜ,SP-DN1056,Piim,l,29.5,1.1
+RK-1057,2026-09-29,Rohemaa Köögivili OÜ,RK-DN1057,Kartul,kg,39.5,0.65
+RK-1057,2026-09-29,Rohemaa Köögivili OÜ,RK-DN1057,Sibul,kg,11,0.9
+RK-1057,2026-09-29,Rohemaa Köögivili OÜ,RK-DN1057,Tomat,kg,7.5,3.4
+RK-1057,2026-09-29,Rohemaa Köögivili OÜ,RK-DN1057,Salat,tk,10,1.2
+KV-1058,2026-09-29,Kuldne Vili Kuivained OÜ,KV-DN1058,Nisujahu,kg,26.5,0.8
+KV-1058,2026-09-29,Kuldne Vili Kuivained OÜ,KV-DN1058,Riis,kg,16,1.9
+KV-1058,2026-09-29,Kuldne Vili Kuivained OÜ,KV-DN1058,Oliiviõli,l,6,9.5
+TL-1059,2026-09-29,Toompea Lihapood OÜ,TL-DN1059,Veise sisefilee,kg,5,42
+TL-1059,2026-09-29,Toompea Lihapood OÜ,TL-DN1059,Kanarind,kg,14.5,7.8
+TL-1059,2026-09-29,Toompea Lihapood OÜ,TL-DN1059,Seakaelakarbonaad,kg,6.5,9.6
+LK-1060,2026-09-30,Läänemere Kala OÜ,LK-DN1060,Lõhefilee,kg,8.5,18.9
+RK-1061,2026-09-30,Rohemaa Köögivili OÜ,RK-DN1061,Kartul,kg,21.5,0.65
+RK-1061,2026-09-30,Rohemaa Köögivili OÜ,RK-DN1061,Sibul,kg,13,0.9
+RK-1061,2026-09-30,Rohemaa Köögivili OÜ,RK-DN1061,Tomat,kg,6.5,3.4
+RK-1061,2026-09-30,Rohemaa Köögivili OÜ,RK-DN1061,Salat,tk,12,1.2
+SP-1062,2026-09-30,Saaremaa Piimatalu OÜ,SP-DN1062,Või,kg,4.5,8.9
+SP-1062,2026-09-30,Saaremaa Piimatalu OÜ,SP-DN1062,Koor 35%,l,8.5,4.1
